@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portoalvi/static/css/main.9dec41ab.css",
+    "main.js": "/portoalvi/static/js/main.dadb1d5c.js",
+    "static/js/787.b7af92ad.chunk.js": "/portoalvi/static/js/787.b7af92ad.chunk.js",
+    "static/media/mainbg.jpeg": "/portoalvi/static/media/mainbg.8cf0e80f2b01d8a0e028.jpeg",
+    "index.html": "/portoalvi/index.html",
+    "main.9dec41ab.css.map": "/portoalvi/static/css/main.9dec41ab.css.map",
+    "main.dadb1d5c.js.map": "/portoalvi/static/js/main.dadb1d5c.js.map",
+    "787.b7af92ad.chunk.js.map": "/portoalvi/static/js/787.b7af92ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dec41ab.css",
+    "static/js/main.dadb1d5c.js"
+  ]
+}
